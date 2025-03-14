@@ -25,5 +25,5 @@ Route::resource('books', BookController::class);
 Route::resource('users', UserController::class);
 Route::resource('borrowing', BorrowingController::class);
 Route::post('/borrowing/{borrowing}/toggle-return', [BorrowingController::class, 'toggleReturn'])->name('borrowing.toggleReturn');
-
+//
 
