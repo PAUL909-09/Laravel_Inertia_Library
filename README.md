@@ -1,5 +1,13 @@
 # Full Setup (Laravel + Inertia)
 
+##Clone Repository
+
+```
+
+```bash
+git clone 
+---
+
 ## 1️⃣ Enter Project
 
 ```bash
@@ -113,4 +121,5 @@ Try:
 ```bash
 npm run build
 ```
+
 
