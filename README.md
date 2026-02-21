@@ -2,8 +2,6 @@
 
 ##Clone Repository
 
-```
-
 ```bash
 git clone https://github.com/PAUL909-09/Laravel_Inertia_Library.git
 ```
@@ -122,6 +120,7 @@ Try:
 ```bash
 npm run build
 ```
+
 
 
 
